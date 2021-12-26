@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+
+body {
+  font-size: 35px;
+  padding: 8px;
+  padding-left: 15px;
+    color: white;
+}
+* {
+font-family: 'Alfa Slab One'
+}
+
+body {
+ background-image: url("./imigess/download.jpeg");
+ background-color: #cccccc;
+}
